@@ -1,0 +1,8 @@
+a=int(input("enter first value:"))
+b=int(input("enter second value:"))
+c=float(input("enter third value:"))
+d=float(input("enter forth value:"))
+print(a/b)
+print(a//b)
+print(a/c)
+print(a//c)
